@@ -16,7 +16,7 @@ My Profile:
 
 **BSc Mathematics, Minor Statistics and Data Analytics** | Adelphi University, New York (_May 2023_)
 
-*Dean’s List for Academic Excellence (2019,2020.2021,2022,2023), Men’s Soccer Scholarship, NE10 Academic Honor Roll -
+*Dean’s List for Academic Excellence (2019, 2020, 2021, 2022, 2023), Men’s Soccer Scholarship, NE10 Academic Honor Roll -
 Academic Distinction (2019, 2020, 2021, 2022, 2023), NE10 Academic Honor Roll - Academic Honors (2022)*
 
 ## Projects 
