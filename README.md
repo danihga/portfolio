@@ -3,7 +3,7 @@
 
 
 My Profile: 
-- [LinkedIn](https://www.linkedin.com/in/danieldelasherasgarcia)
+- [docs/linkedin.svg](https://www.linkedin.com/in/danieldelasherasgarcia)
 - [CV](https://github.com/danihga/portfolio/blob/a9dbe786d9de50c9cfcc7ca88204647a2477fcb1/docs/Daniel%20de%20las%20Heras.pdf)
 
 
