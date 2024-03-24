@@ -1,0 +1,47 @@
+Founded Year,The year in which the company was founded
+Company HQ Phone,Primary phone number of the company
+Fax,Primary fax number for the company
+Ticker,Stock ticker for the company
+Revenue (in 000s),Approximate numeric yearly revenue for the company in 1000's
+Revenue Range,Approximate yearly revenue range for the company
+Est. Marketing Department Budget (in 000s),Approximate budget of the company's marketing department
+Est. Finance Department Budget (in 000s),Approximate budget of the company's finance department
+Est. IT Department Budget (in 000s),Approximate budget of the company's IT department
+Est. HR Department Budget (in 000s),Approximate budget of the company's HR department
+Employees,Approximate number of contacts employed by the company
+Employee Range,Approximate range for the number of contacts employed by the company
+Past 1 Year Employee Growth Rate,Approximate company employee growth percentage in the past 1 year
+Past 2 Year Employee Growth Rate,Approximate company employee growth percentage in the past 2 year
+SIC Code 1,Four-digit numerical codes assigned by the U.S. government to business establishments to identify the primary business of the establishment
+SIC Code 2,Four-digit numerical codes assigned by the U.S. government to business establishments to identify the primary business of the establishment
+SIC Codes,Comma Separated list of all SIC codes associated with the company
+NAICS Code 1,Six-digit numerical codes assigned by the U.S. government to business establishments to identify the primary business of the establishment
+NAICS Code 2,Six-digit numerical codes assigned by the U.S. government to business establishments to identify the primary business of the establishment
+NAICS Codes,Comma Separated list of all NAICS codes associated with the company
+Primary Industry,Top Level Primary Industry of the company
+Primary Sub-Industry,Primary sub industry of the company
+All Industries,A list of all industries of the company
+All Sub-Industries,A list of all sub-industries of the company
+Industry Hierarchical Category,Primary industry category hierarchy
+Secondary Industry Hierarchical Category,Secondary industry category hierarchy
+Alexa Rank,Alexa rank is calculated by combining a site's estimated traffic as well as visitor engagement over the previous three months.
+ZoomInfo Company Profile URL,URL to the company profile in ZoomInfo
+LinkedIn Company Profile URL,URL of the company profile within LinkedIn
+Facebook Company Profile URL,URL of the company profile within Facebook
+Twitter Company Profile URL,URL of the company profile within Twitter
+Ownership Type,Whether company is private or public
+Business Model (B2B/B2C),Denotes whether business is business-to-business or business-to-consumer
+Certified Active Company,Yes or no value which denotes if ZoomInfo's research and data team has confirmed activity within the past 12 months
+Certification Date,Most recent date when ZoomInfo's research and data team confirmed activity
+Total Funding Amount (in 000s),Total funding amount received by the company in 1000's
+Recent Funding Amount (in 000s),Most recent funding amount received by the company in 1000's
+Recent Funding Round,Most recent funding round type
+Recent Funding Date,Most recent funding date
+Recent Investors,Most recent funding investor
+All Investors,List of all investors that invested in the company
+Company City,City of the company's primary address
+Company State,State of the company's primary address
+Company Zip Code,Zip code of the company's primary address
+Full Address,Full primary address of the company
+Number of Locations,Total number of office locations of the company
+Company is Acquired,True/False value indicating whether a company has been acquired or not
