@@ -1,7 +1,9 @@
 # Portfolio
 Daniel de las Heras Portfolio
 
-[LinkedIn](www.linkedin.com/in/danieldelasherasgarcia)
+My Profile: 
+- [LinkedIn](www.linkedin.com/in/danieldelasherasgarcia)
+- [CV](www.linkedin.com/in/danieldelasherasgarcia)
 
 ## Education
 MSc Applied Mathematics and Data Science | Adelphi University, New York | (_May 2023_)
