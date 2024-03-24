@@ -17,6 +17,7 @@ My Profile:
 Academic Distinction (2019,2020.2021,2022,2023), NE10 Academic Honor Roll - Academic Honors (2022)*
 
 ## Projects 
+___
 
 ### Prospect Customers Billing Forecasting
 **Netrality Data Centers – Adelphi University**
