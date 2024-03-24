@@ -8,9 +8,11 @@ My Profile:
 
 ## Education
 **MSc Applied Mathematics and Data Science** | Adelphi University, New York (_May 2024_)
+
 Relevant modules: Regression Analysis, Applied Machine Learning, Advance Business Analytics, Simulations and Stochastic Processes, Database Management Systems, Statistical Consulting Practicum, Numerical Methods and Deterministic Models*
 
 **BSc Mathematics, Minor Statistics and Data Analytics** | Adelphi University, New York (_May 2023_)
+
 *Dean’s List for Academic Excellence (2019,2020.2021,2022,2023), Men’s Soccer Scholarship, NE10 Academic Honor Roll -
 Academic Distinction (2019,2020.2021,2022,2023), NE10 Academic Honor Roll - Academic Honors (2022)*
 
