@@ -1,4 +1,5 @@
 # Portfolio
+---
 #Daniel de las Heras 
 
 My Profile: 
@@ -7,6 +8,7 @@ My Profile:
 
 
 ## Education
+***
 **MSc Applied Mathematics and Data Science** | Adelphi University, New York (_May 2024_)
 
 *Relevant modules: Regression Analysis, Applied Machine Learning, Advance Business Analytics, Simulations and Stochastic Processes, Database Management Systems, Statistical Consulting Practicum, Numerical Methods and Deterministic Models*
