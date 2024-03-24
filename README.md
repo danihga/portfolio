@@ -40,7 +40,7 @@ decision-making.
 - Collaborated with the team to ensure alignment with business goals, meet deadlines, and deliver presentations to stakeholders.
 
 
-### Reserch - Fellowship (_Department of Mathematics and Computer Science_)
+### Research - Fellowship (_Department of Mathematics and Computer Science_)
 **Adelphi University**
 - Research and developed winning strategy algorithms in Graph and Game Theory in a 3-person team.
 - Presented team results at the Mathematical Association of America Metro New York conference (May 1st, 2021)
