@@ -5,6 +5,7 @@ My Profile:
 - [LinkedIn](www.linkedin.com/in/danieldelasherasgarcia)
 - [CV](docs/Daniel de las Heras.pdf)
 
+
 ## Education
 MSc Applied Mathematics and Data Science | Adelphi University, New York | (_May 2023_)
 
