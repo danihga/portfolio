@@ -3,7 +3,9 @@
 
 
 My Profile: 
-<a href=”https://www.linkedin.com/in/danieldelasherasgarcia/"><img align=”left” src=”https://github.com/danihga/portfolio/blob/90ca5f8f3d150221fa1d6e01a6aabef5f45f1a74/docs/linkedin.svg" alt=”dani | LinkedIn” width=”21px”/></a>
+
+- [LinkedIn](https://www.linkedin.com/in/danieldelasherasgarcia/)
+- [CV]()
 
 ## Education
 ***
