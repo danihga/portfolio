@@ -1,16 +1,16 @@
-# portfolio
+# Portfolio
 Daniel de las Heras Portfolio
 # Applied Mathematics and Data Scientist 
 
-### Education
+## Education
 MSc Applied Mathematics and Data Science
 
 Bsc Mathematics + Minor Statistics and Data Analytics
 
-### Projects 
+## Projects 
 
-#### Prospect Customers Billing Forecasting
-##### Netrality Data Centers – Adelphi University
+### Prospect Customers Billing Forecasting
+**Netrality Data Centers – Adelphi University**
 
 - Forecasted companies for revenue maximization using machine learning techniques.
 - Developed, trained, and evaluated a machine learning model using a dataset of current companies, leveraging five classification
