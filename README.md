@@ -4,8 +4,6 @@
 
 My Profile: 
 - [LinkedIn](https://www.linkedin.com/in/danieldelasherasgarcia)
--[LinkedIn](www.linkedin.com/in/danieldelasherasgarcia)
-- [CV](https://drive.google.com/file/d/1MJKdxZdZm7KudZdcVpvQ1ZTkp6TVjZNV/view?usp=drive_link)
 - [CV](https://github.com/danihga/portfolio/blob/a9dbe786d9de50c9cfcc7ca88204647a2477fcb1/docs/Daniel%20de%20las%20Heras.pdf)
 
 
