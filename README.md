@@ -3,7 +3,7 @@ Daniel de las Heras Portfolio
 
 My Profile: 
 - [LinkedIn](www.linkedin.com/in/danieldelasherasgarcia)
-- [CV](docs/Daniel de las Heras.pdf)
+- [CV](https://drive.google.com/file/d/1MJKdxZdZm7KudZdcVpvQ1ZTkp6TVjZNV/view?usp=drive_link)
 
 
 ## Education
