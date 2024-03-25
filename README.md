@@ -16,7 +16,7 @@ Python (NumPy, Pandas, Scikit-learn, TensorFlow), [SQL](https://github.com/danih
 Languages:
 
 - **Spanish** *Native*
-- **English** *Bilingual*
+- **English** *Bilingual - Proficient*
   
 ## Education 
 ***
