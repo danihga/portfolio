@@ -86,3 +86,7 @@ ___
 - Implemented the MCMC algorithm to analyze the probability of obtaining specific district maps, contributing to the detection and prevention of unfair electoral practices.
 
 [Project Final Paper](https://github.com/danihga/portfolio/blob/d8ee2ac5d09d897c0b962133e7fefa0500717727/Redistricting%20Project/Final_Project_Report.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/blob/d8ee2ac5d09d897c0b962133e7fefa0500717727/Redistricting%20Project)
+
+### Business Analytics Projects
+
+[Grocery Store Demand Forecasting]()
