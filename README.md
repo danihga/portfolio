@@ -72,4 +72,4 @@ ___
 -Implemented computer-programmed simulations to validate theoretical findings and enhance understanding.
 - Derived The Black and Scholes Equation, showcasing proficiency in advanced mathematical modeling and its relevance in financial analysis.
 
-[Project Paper](https://github.com/danihga/portfolio/blob/8c23a04c234420d0d733ea192c3c15f4300fde8e/Netrality/Project_Report.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/tree/7e7d2639a4ad13b6a57eab274ff090763203eeac/Black-Sholes%20Research%20Undergraduate%20Thesis)
+[Project Paper](https://github.com/danihga/portfolio/blob/ff78935a7b6f92ce08a7be4567e64779c5e82100/Black-Sholes%20Research%20Undergraduate%20Thesis/Black_Sholes_Paper.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/tree/7e7d2639a4ad13b6a57eab274ff090763203eeac/Black-Sholes%20Research%20Undergraduate%20Thesis)
