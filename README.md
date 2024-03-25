@@ -7,7 +7,7 @@ My Profile:
 - [LinkedIn](https://www.linkedin.com/in/danieldelasherasgarcia/)
 - [CV](https://github.com/danihga/portfolio/blob/20f3f2031d54c2088b7dba0a1af30ce1f33d68f8/docs/Daniel%20de%20las%20Heras.pdf)
 
-## Education (https://github.com/danihga/portfolio/tree/c1310e13be3891c02828cc1d63d6d37713832055/Netrality)
+## Education 
 ***
 **MSc Applied Mathematics and Data Science** | Adelphi University, New York (_May 2024_)
 
@@ -33,14 +33,14 @@ algorithms: Logistic Regression, K-nearest neighbors, Random Forest, Gradient Bo
 
 [Project Paper](https://github.com/danihga/portfolio/blob/8c23a04c234420d0d733ea192c3c15f4300fde8e/Netrality/Project_Report.pdf)       [Code and Other Files](https://github.com/danihga/portfolio/tree/c1310e13be3891c02828cc1d63d6d37713832055/Netrality)
 
-### Statistical Consulting Project
+### [Statistical Consulting Project]()
 **Hiatus App - Adelphi University**
 - Developed a Marketing Mix Model (MMM) using data analytics techniques to optimize budget allocation for media channels.
 - Implemented Lasso and Ridge Regression algorithms to build a predictive model and deliver actionable insights for strategic
 decision-making.
 - Utilized Python programming for data preprocessing, model deployment, creating a scalable and efficient solution.
 - Collaborated with the team to ensure alignment with business goals, meet deadlines, and deliver presentations to stakeholders.
-
+[Guide Book]() [Code]()
 
 ### Research - Fellowship (_Department of Mathematics and Computer Science_)
 **Adelphi University**
