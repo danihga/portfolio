@@ -65,6 +65,7 @@ ___
 
 ### Undergraduate Thesis: Stochastic Processes and Financial Applications
 **Stock Prices Modelling and Black and Sholes**
+*Adelphi University*
 
 - Conducted in-depth research on Stochastic Processes, focusing on understanding concepts like Ito integration and its applications in finance, particularly in stock pricing and options.
 - Developed a solid foundation in Stochastic Processes, essential for comprehending complex financial models.
@@ -73,3 +74,15 @@ ___
 - Derived The Black and Scholes Equation, showcasing proficiency in advanced mathematical modeling and its relevance in financial analysis.
 
 [Project Paper](https://github.com/danihga/portfolio/blob/ff78935a7b6f92ce08a7be4567e64779c5e82100/Black-Sholes%20Research%20Undergraduate%20Thesis/Black_Sholes_Paper.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/tree/7e7d2639a4ad13b6a57eab274ff090763203eeac/Black-Sholes%20Research%20Undergraduate%20Thesis)
+
+### Research Project: Partisan Gerrymandering and MCMC Algorithm
+*Adelphi University*
+
+- Investigated partisan gerrymandering, the deliberate manipulation of political boundaries to unfairly favor a specific party, impacting fair representation in elections.
+- Explored historical and modern techniques of gerrymandering, leveraging technological advancements and demographic data for more precise district manipulation.
+- Proposed a Monte Carlo Markov Chain (MCMC) algorithm to uniformly sample possible election district plans from an initial plan, enabling the assessment of gerrymandering probabilities.
+- Developed an algorithmic framework for sampling diverse plans through transitions from an initial map, facilitating objective evaluations of gerrymandering potential.
+- Implemented the MCMC algorithm to analyze the probability of obtaining specific district maps, contributing to the detection and prevention of unfair electoral practices.
+- Addressed the ethical and political implications of partisan gerrymandering, emphasizing the importance of fair representation and democratic integrity in electoral processes.
+
+[Project Final Paper](https://github.com/danihga/portfolio/blob/ff78935a7b6f92ce08a7be4567e64779c5e82100/Black-Sholes%20Research%20Undergraduate%20Thesis/Black_Sholes_Paper.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/tree/7e7d2639a4ad13b6a57eab274ff090763203eeac/Black-Sholes%20Research%20Undergraduate%20Thesis)
