@@ -78,11 +78,10 @@ ___
 ### Research Project: Partisan Gerrymandering and MCMC Algorithm
 *Adelphi University*
 
-- Investigated partisan gerrymandering, the deliberate manipulation of political boundaries to unfairly favor a specific party, impacting fair representation in elections.
-- Explored historical and modern techniques of gerrymandering, leveraging technological advancements and demographic data for more precise district manipulation.
-- Proposed a Monte Carlo Markov Chain (MCMC) algorithm to uniformly sample possible election district plans from an initial plan, enabling the assessment of gerrymandering probabilities.
+- Investigated partisan gerrymandering and how it impacts fair representation in elections.
+- Explored historical and modern techniques of gerrymandering, and the utalization technological advancements and demographic data to enhance this district manipulation.
+- Proposed a Monte Carlo Markov Chain (MCMC) algorithm to uniformly sample possible election district plans, enabling the assessment of gerrymandering probabilities.
 - Developed an algorithmic framework for sampling diverse plans through transitions from an initial map, facilitating objective evaluations of gerrymandering potential.
 - Implemented the MCMC algorithm to analyze the probability of obtaining specific district maps, contributing to the detection and prevention of unfair electoral practices.
-- Addressed the ethical and political implications of partisan gerrymandering, emphasizing the importance of fair representation and democratic integrity in electoral processes.
 
 [Project Final Paper](https://github.com/danihga/portfolio/blob/d8ee2ac5d09d897c0b962133e7fefa0500717727/Redistricting%20Project/Final_Project_Report.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/blob/d8ee2ac5d09d897c0b962133e7fefa0500717727/Redistricting%20Project)
