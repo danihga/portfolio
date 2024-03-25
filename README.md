@@ -65,6 +65,7 @@ ___
 
 ### Undergraduate Thesis: Stochastic Processes and Financial Applications
 **Stock Prices Modelling and Black and Sholes**
+
 *Adelphi University*
 
 - Conducted in-depth research on Stochastic Processes, focusing on understanding concepts like Ito integration and its applications in finance, particularly in stock pricing and options.
@@ -75,7 +76,7 @@ ___
 
 [Project Paper](https://github.com/danihga/portfolio/blob/ff78935a7b6f92ce08a7be4567e64779c5e82100/Black-Sholes%20Research%20Undergraduate%20Thesis/Black_Sholes_Paper.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/tree/7e7d2639a4ad13b6a57eab274ff090763203eeac/Black-Sholes%20Research%20Undergraduate%20Thesis)
 
-### Research Project: Partisan Gerrymandering and MCMC Algorithm
+### Partisan Gerrymandering and MCMC Algorithm
 *Adelphi University*
 
 - Investigated partisan gerrymandering and how it impacts fair representation in elections.
