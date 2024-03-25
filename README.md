@@ -31,7 +31,7 @@ algorithms: Logistic Regression, K-nearest neighbors, Random Forest, Gradient Bo
 - Collaborated with a five-person tea
 - **Find the project clicking on the links below:** 
 
-[Project Paper](https://github.com/danihga/portfolio/blob/8c23a04c234420d0d733ea192c3c15f4300fde8e/Netrality/Project_Report.pdf)       [Code and Other Files](https://github.com/danihga/portfolio/tree/c1310e13be3891c02828cc1d63d6d37713832055/Netrality)
+[Project Paper](https://github.com/danihga/portfolio/blob/8c23a04c234420d0d733ea192c3c15f4300fde8e/Netrality/Project_Report.pdf)               [Code and Other Files](https://github.com/danihga/portfolio/tree/c1310e13be3891c02828cc1d63d6d37713832055/Netrality)
 
 ### [Statistical Consulting Project]()
 **Hiatus App - Adelphi University**
@@ -41,7 +41,7 @@ decision-making.
 - Utilized Python programming for data preprocessing, model deployment, creating a scalable and efficient solution.
 - Collaborated with the team to ensure alignment with business goals, meet deadlines, and deliver presentations to stakeholders.
 
-[Guide Book](https://github.com/danihga/portfolio/blob/6b85c563e37395a9d2ea09f332743f00cb1e777e/Hiatus/Guidebook.pdf) [Code]()
+[Guide Book](https://github.com/danihga/portfolio/blob/6b85c563e37395a9d2ea09f332743f00cb1e777e/Hiatus/Guidebook.pdf)               [Code](https://github.com/danihga/portfolio/blob/1b4c9ef9dd7d808cc7dcede1b79d796e70866cac/Hiatus/hiatus_model_final_edit.ipynb)
 
 ### Research - Fellowship (_Department of Mathematics and Computer Science_)
 **Adelphi University**
