@@ -5,7 +5,7 @@
 **My Profile:** 
 
 - [LinkedIn](https://www.linkedin.com/in/danieldelasherasgarcia/)
-- [CV](https://github.com/danihga/portfolio/blob/20f3f2031d54c2088b7dba0a1af30ce1f33d68f8/docs/Daniel%20de%20las%20Heras.pdf)
+- [CV](https://github.com/danihga/portfolio/blob/72afc7156a04b5fa2daaf3e32be5fd1a064c3a67/docs/Daniel%20de%20las%20Heras.pdf)
 
  
 **Skills:**
