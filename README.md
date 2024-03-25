@@ -31,7 +31,7 @@ algorithms: Logistic Regression, K-nearest neighbors, Random Forest, Gradient Bo
 - Collaborated with a five-person tea
 - **Find the project clicking on the links below:** 
 
-[Project Paper](portfolio/Netrality/Project_Report.pdf)   [Code and Other Files](portfolio/Netrality/Project_Report.pdf)
+[Project Paper](https://github.com/danihga/portfolio/blob/8c23a04c234420d0d733ea192c3c15f4300fde8e/Netrality/Project_Report.pdf)   [Code and Other Files](portfolio/Netrality/Project_Report.pdf)
 
 ### Statistical Consulting Project
 **Hiatus App - Adelphi University**
