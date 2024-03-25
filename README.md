@@ -41,7 +41,7 @@ decision-making.
 - Utilized Python programming for data preprocessing, model deployment, creating a scalable and efficient solution.
 - Collaborated with the team to ensure alignment with business goals, meet deadlines, and deliver presentations to stakeholders.
 
-[Guide Book]() [Code]()
+[Guide Book](https://github.com/danihga/portfolio/blob/6b85c563e37395a9d2ea09f332743f00cb1e777e/Hiatus/Guidebook.pdf) [Code]()
 
 ### Research - Fellowship (_Department of Mathematics and Computer Science_)
 **Adelphi University**
