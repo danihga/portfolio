@@ -63,7 +63,7 @@ and Adelphi’s Annual Conference (May 10th, 2021).
 ## Projects
 ___
 
-### Stochastic Processes and Financial Applications
+### Undergraduate Thesis: Stochastic Processes and Financial Applications
 **Stock Prices Modelling and Black and Sholes**
 
 - Conducted in-depth research on Stochastic Processes, focusing on understanding concepts like Ito integration and its applications in finance, particularly in stock pricing and options.
