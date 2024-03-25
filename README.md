@@ -10,7 +10,7 @@
 
 **Skills:**
 
-Python (NumPy, Pandas, Scikit-learn, TensorFlow), [SQL](https://github.com/danihga/portfolio/blob/70662d5f9ccd0a733a2e2a58af1134bc5ce68207/SQL/Sports_Store_Database_Project.pdf), [MATLAB](https://github.com/danihga/portfolio/tree/7aa24179de091c7d5b50aad336a669f7499f6199/MAT%20LAB), R, LaTeX (advanced), Microsoft Office Suite (advanced), Java (intermediate), Hypotheisis Testing, Stochastic Processes.
+Python (NumPy, Pandas, Scikit-learn, TensorFlow), [SQL](https://github.com/danihga/portfolio/blob/70662d5f9ccd0a733a2e2a58af1134bc5ce68207/SQL/Sports_Store_Database_Project.pdf), [MATLAB](https://github.com/danihga/portfolio/tree/7aa24179de091c7d5b50aad336a669f7499f6199/MAT%20LAB), R, LaTeX (advanced), Microsoft Office Suite (advanced), Java (intermediate), [Hypotheisis Testing](), Stochastic Processes.
 
 
 **Languages:**
