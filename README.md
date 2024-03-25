@@ -19,7 +19,7 @@ My Profile:
 *Dean’s List for Academic Excellence (2019, 2020, 2021, 2022, 2023), Men’s Soccer Scholarship, NE10 Academic Honor Roll -
 Academic Distinction (2019, 2020, 2021, 2022, 2023), NE10 Academic Honor Roll - Academic Honors (2022)*
 
-## Projects 
+## Experience 
 ___
 
 ### Prospect Customers Billing Forecasting
@@ -29,8 +29,9 @@ ___
 - Developed, trained, and evaluated a machine learning model using a dataset of current companies, leveraging five classification
 algorithms: Logistic Regression, K-nearest neighbors, Random Forest, Gradient Boost, and LBGM.
 - Collaborated with a five-person tea
+- **Find the project clicking on the links below:** 
 
-[Project](portfolio/Netrality/Project_Report.pdf)
+[Project Paper](portfolio/Netrality/Project_Report.pdf)   [Code and Other Files](portfolio/Netrality/Project_Report.pdf)
 
 ### Statistical Consulting Project
 **Hiatus App - Adelphi University**
