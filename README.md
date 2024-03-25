@@ -10,7 +10,7 @@ My Profile:
 
 Technical Skills:
 
-Python (NumPy, Pandas, Scikit-learn, TensorFlow), [SQL](), [MATLAB](), R, LaTeX (advanced), Java (intermediate), Microsoft Office
+Python (NumPy, Pandas, Scikit-learn, TensorFlow), [SQL](https://github.com/danihga/portfolio/blob/70662d5f9ccd0a733a2e2a58af1134bc5ce68207/SQL/Sports_Store_Database_Project.pdf), [MATLAB](), R, LaTeX (advanced), Java (intermediate), Microsoft Office
 Suite (advanced)
 
 
