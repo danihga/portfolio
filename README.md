@@ -6,7 +6,7 @@ My Profile:
 - [LinkedIn](https://www.linkedin.com/in/danieldelasherasgarcia/)
 - [CV](https://github.com/danihga/portfolio/blob/20f3f2031d54c2088b7dba0a1af30ce1f33d68f8/docs/Daniel%20de%20las%20Heras.pdf)
 
-Technical Skills:
+Technical Skills://
 Python (NumPy, Pandas, Scikit-learn, TensorFlow), [SQL](), [MATLAB](), R, LaTeX (advanced), Java (intermediate), Microsoft Office
 Suite (advanced)
 
