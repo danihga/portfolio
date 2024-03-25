@@ -41,7 +41,7 @@ decision-making.
 - Utilized Python programming for data preprocessing, model deployment, creating a scalable and efficient solution.
 - Collaborated with the team to ensure alignment with business goals, meet deadlines, and deliver presentations to stakeholders.
 
-[Guide](https://github.com/danihga/portfolio/blob/6b85c563e37395a9d2ea09f332743f00cb1e777e/Hiatus/Guidebook.pdf)        |       [Project Files and Code]([https://github.com/danihga/portfolio/blob/1b4c9ef9dd7d808cc7dcede1b79d796e70866cac/Hiatus/hiatus_model_final_edit.ipynb](https://github.com/danihga/portfolio/tree/435e413af84f8d9373dc1f143650f3210b1a839b/Hiatus))
+[Guide](https://github.com/danihga/portfolio/blob/6b85c563e37395a9d2ea09f332743f00cb1e777e/Hiatus/Guidebook.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/blob/1b4c9ef9dd7d808cc7dcede1b79d796e70866cac/Hiatus/hiatus_model_final_edit.ipynb](https://github.com/danihga/portfolio/tree/435e413af84f8d9373dc1f143650f3210b1a839b/Hiatus)
 
 ### Research - Fellowship (_Department of Mathematics and Computer Science_)
 **Adelphi University**
