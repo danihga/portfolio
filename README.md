@@ -7,7 +7,7 @@ My Profile:
 - [LinkedIn](https://www.linkedin.com/in/danieldelasherasgarcia/)
 - [CV](https://github.com/danihga/portfolio/blob/20f3f2031d54c2088b7dba0a1af30ce1f33d68f8/docs/Daniel%20de%20las%20Heras.pdf)
 
-## Education
+## Education (https://github.com/danihga/portfolio/tree/c1310e13be3891c02828cc1d63d6d37713832055/Netrality)
 ***
 **MSc Applied Mathematics and Data Science** | Adelphi University, New York (_May 2024_)
 
