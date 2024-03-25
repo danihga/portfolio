@@ -1,0 +1,589 @@
+date,store_name,product_name,sd
+2020-06-06,Garden City,avocado,194
+2020-06-13,Garden City,avocado,213
+2020-06-20,Garden City,avocado,211
+2020-06-27,Garden City,avocado,209
+2020-07-04,Garden City,avocado,199
+2020-07-11,Garden City,avocado,213
+2020-07-18,Garden City,avocado,202
+2020-07-25,Garden City,avocado,213
+2020-08-01,Garden City,avocado,206
+2020-08-08,Garden City,avocado,188
+2020-08-15,Garden City,avocado,203
+2020-08-22,Garden City,avocado,190
+2020-06-06,Garden City,banana,474
+2020-06-13,Garden City,banana,441
+2020-06-20,Garden City,banana,486
+2020-06-27,Garden City,banana,438
+2020-07-04,Garden City,banana,453
+2020-07-11,Garden City,banana,457
+2020-07-18,Garden City,banana,432
+2020-07-25,Garden City,banana,486
+2020-08-01,Garden City,banana,448
+2020-08-08,Garden City,banana,464
+2020-08-15,Garden City,banana,474
+2020-08-22,Garden City,banana,460
+2020-06-06,Garden City,cucumber,215
+2020-06-13,Garden City,cucumber,230
+2020-06-20,Garden City,cucumber,221
+2020-06-27,Garden City,cucumber,231
+2020-07-04,Garden City,cucumber,222
+2020-07-11,Garden City,cucumber,208
+2020-07-18,Garden City,cucumber,212
+2020-07-25,Garden City,cucumber,218
+2020-08-01,Garden City,cucumber,222
+2020-08-08,Garden City,cucumber,229
+2020-08-15,Garden City,cucumber,222
+2020-08-22,Garden City,cucumber,227
+2020-06-06,Garden City,lettuce,356
+2020-06-13,Garden City,lettuce,343
+2020-06-20,Garden City,lettuce,350
+2020-06-27,Garden City,lettuce,332
+2020-07-04,Garden City,lettuce,343
+2020-07-11,Garden City,lettuce,369
+2020-07-18,Garden City,lettuce,364
+2020-07-25,Garden City,lettuce,354
+2020-08-01,Garden City,lettuce,349
+2020-08-08,Garden City,lettuce,314
+2020-08-15,Garden City,lettuce,325
+2020-08-22,Garden City,lettuce,353
+2020-06-06,Garden City,orange,402
+2020-06-13,Garden City,orange,347
+2020-06-20,Garden City,orange,367
+2020-06-27,Garden City,orange,364
+2020-07-04,Garden City,orange,347
+2020-07-11,Garden City,orange,386
+2020-07-18,Garden City,orange,382
+2020-07-25,Garden City,orange,385
+2020-08-01,Garden City,orange,394
+2020-08-08,Garden City,orange,392
+2020-08-15,Garden City,orange,377
+2020-08-22,Garden City,orange,371
+2020-06-06,Garden City,tomato,306
+2020-06-13,Garden City,tomato,316
+2020-06-20,Garden City,tomato,310
+2020-06-27,Garden City,tomato,349
+2020-07-04,Garden City,tomato,318
+2020-07-11,Garden City,tomato,346
+2020-07-18,Garden City,tomato,355
+2020-07-25,Garden City,tomato,319
+2020-08-01,Garden City,tomato,335
+2020-08-08,Garden City,tomato,315
+2020-08-15,Garden City,tomato,321
+2020-08-22,Garden City,tomato,323
+2020-06-06,Garden City,watermelon,441
+2020-06-13,Garden City,watermelon,430
+2020-06-20,Garden City,watermelon,437
+2020-06-27,Garden City,watermelon,476
+2020-07-04,Garden City,watermelon,464
+2020-07-11,Garden City,watermelon,472
+2020-07-18,Garden City,watermelon,464
+2020-07-25,Garden City,watermelon,435
+2020-08-01,Garden City,watermelon,461
+2020-08-08,Garden City,watermelon,435
+2020-08-15,Garden City,watermelon,475
+2020-08-22,Garden City,watermelon,456
+2020-06-06,Greenport,avocado,299
+2020-06-13,Greenport,avocado,301
+2020-06-20,Greenport,avocado,298
+2020-06-27,Greenport,avocado,308
+2020-07-04,Greenport,avocado,307
+2020-07-11,Greenport,avocado,292
+2020-07-18,Greenport,avocado,291
+2020-07-25,Greenport,avocado,290
+2020-08-01,Greenport,avocado,288
+2020-08-08,Greenport,avocado,264
+2020-08-15,Greenport,avocado,272
+2020-08-22,Greenport,avocado,279
+2020-06-06,Greenport,banana,713
+2020-06-13,Greenport,banana,680
+2020-06-20,Greenport,banana,686
+2020-06-27,Greenport,banana,686
+2020-07-04,Greenport,banana,650
+2020-07-11,Greenport,banana,685
+2020-07-18,Greenport,banana,651
+2020-07-25,Greenport,banana,685
+2020-08-01,Greenport,banana,637
+2020-08-08,Greenport,banana,625
+2020-08-15,Greenport,banana,631
+2020-08-22,Greenport,banana,631
+2020-06-06,Greenport,cucumber,311
+2020-06-13,Greenport,cucumber,314
+2020-06-20,Greenport,cucumber,305
+2020-06-27,Greenport,cucumber,333
+2020-07-04,Greenport,cucumber,313
+2020-07-11,Greenport,cucumber,292
+2020-07-18,Greenport,cucumber,312
+2020-07-25,Greenport,cucumber,306
+2020-08-01,Greenport,cucumber,304
+2020-08-08,Greenport,cucumber,298
+2020-08-15,Greenport,cucumber,322
+2020-08-22,Greenport,cucumber,315
+2020-06-06,Greenport,lettuce,478
+2020-06-13,Greenport,lettuce,496
+2020-06-20,Greenport,lettuce,497
+2020-06-27,Greenport,lettuce,491
+2020-07-04,Greenport,lettuce,509
+2020-07-11,Greenport,lettuce,494
+2020-07-18,Greenport,lettuce,536
+2020-07-25,Greenport,lettuce,499
+2020-08-01,Greenport,lettuce,537
+2020-08-08,Greenport,lettuce,459
+2020-08-15,Greenport,lettuce,458
+2020-08-22,Greenport,lettuce,488
+2020-06-06,Greenport,orange,517
+2020-06-13,Greenport,orange,485
+2020-06-20,Greenport,orange,522
+2020-06-27,Greenport,orange,505
+2020-07-04,Greenport,orange,477
+2020-07-11,Greenport,orange,564
+2020-07-18,Greenport,orange,538
+2020-07-25,Greenport,orange,548
+2020-08-01,Greenport,orange,565
+2020-08-08,Greenport,orange,549
+2020-08-15,Greenport,orange,537
+2020-08-22,Greenport,orange,543
+2020-06-06,Greenport,tomato,444
+2020-06-13,Greenport,tomato,461
+2020-06-20,Greenport,tomato,436
+2020-06-27,Greenport,tomato,466
+2020-07-04,Greenport,tomato,472
+2020-07-11,Greenport,tomato,461
+2020-07-18,Greenport,tomato,492
+2020-07-25,Greenport,tomato,477
+2020-08-01,Greenport,tomato,485
+2020-08-08,Greenport,tomato,474
+2020-08-15,Greenport,tomato,451
+2020-08-22,Greenport,tomato,447
+2020-06-06,Greenport,watermelon,611
+2020-06-13,Greenport,watermelon,676
+2020-06-20,Greenport,watermelon,632
+2020-06-27,Greenport,watermelon,698
+2020-07-04,Greenport,watermelon,633
+2020-07-11,Greenport,watermelon,653
+2020-07-18,Greenport,watermelon,676
+2020-07-25,Greenport,watermelon,685
+2020-08-01,Greenport,watermelon,710
+2020-08-08,Greenport,watermelon,689
+2020-08-15,Greenport,watermelon,677
+2020-08-22,Greenport,watermelon,659
+2020-06-06,Merrick,avocado,232
+2020-06-13,Merrick,avocado,223
+2020-06-20,Merrick,avocado,233
+2020-06-27,Merrick,avocado,238
+2020-07-04,Merrick,avocado,222
+2020-07-11,Merrick,avocado,234
+2020-07-18,Merrick,avocado,223
+2020-07-25,Merrick,avocado,229
+2020-08-01,Merrick,avocado,229
+2020-08-08,Merrick,avocado,221
+2020-08-15,Merrick,avocado,210
+2020-08-22,Merrick,avocado,204
+2020-06-06,Merrick,banana,512
+2020-06-13,Merrick,banana,515
+2020-06-20,Merrick,banana,523
+2020-06-27,Merrick,banana,471
+2020-07-04,Merrick,banana,484
+2020-07-11,Merrick,banana,498
+2020-07-18,Merrick,banana,478
+2020-07-25,Merrick,banana,507
+2020-08-01,Merrick,banana,491
+2020-08-08,Merrick,banana,507
+2020-08-15,Merrick,banana,510
+2020-08-22,Merrick,banana,511
+2020-06-06,Merrick,cucumber,241
+2020-06-13,Merrick,cucumber,249
+2020-06-20,Merrick,cucumber,241
+2020-06-27,Merrick,cucumber,241
+2020-07-04,Merrick,cucumber,236
+2020-07-11,Merrick,cucumber,230
+2020-07-18,Merrick,cucumber,232
+2020-07-25,Merrick,cucumber,220
+2020-08-01,Merrick,cucumber,241
+2020-08-08,Merrick,cucumber,227
+2020-08-15,Merrick,cucumber,235
+2020-08-22,Merrick,cucumber,244
+2020-06-06,Merrick,lettuce,375
+2020-06-13,Merrick,lettuce,370
+2020-06-20,Merrick,lettuce,388
+2020-06-27,Merrick,lettuce,395
+2020-07-04,Merrick,lettuce,373
+2020-07-11,Merrick,lettuce,382
+2020-07-18,Merrick,lettuce,398
+2020-07-25,Merrick,lettuce,392
+2020-08-01,Merrick,lettuce,388
+2020-08-08,Merrick,lettuce,363
+2020-08-15,Merrick,lettuce,352
+2020-08-22,Merrick,lettuce,348
+2020-06-06,Merrick,orange,406
+2020-06-13,Merrick,orange,391
+2020-06-20,Merrick,orange,382
+2020-06-27,Merrick,orange,377
+2020-07-04,Merrick,orange,410
+2020-07-11,Merrick,orange,424
+2020-07-18,Merrick,orange,408
+2020-07-25,Merrick,orange,417
+2020-08-01,Merrick,orange,397
+2020-08-08,Merrick,orange,445
+2020-08-15,Merrick,orange,412
+2020-08-22,Merrick,orange,387
+2020-06-06,Merrick,tomato,346
+2020-06-13,Merrick,tomato,361
+2020-06-20,Merrick,tomato,340
+2020-06-27,Merrick,tomato,352
+2020-07-04,Merrick,tomato,367
+2020-07-11,Merrick,tomato,364
+2020-07-18,Merrick,tomato,360
+2020-07-25,Merrick,tomato,370
+2020-08-01,Merrick,tomato,367
+2020-08-08,Merrick,tomato,342
+2020-08-15,Merrick,tomato,368
+2020-08-22,Merrick,tomato,362
+2020-06-06,Merrick,watermelon,444
+2020-06-13,Merrick,watermelon,456
+2020-06-20,Merrick,watermelon,502
+2020-06-27,Merrick,watermelon,496
+2020-07-04,Merrick,watermelon,499
+2020-07-11,Merrick,watermelon,516
+2020-07-18,Merrick,watermelon,525
+2020-07-25,Merrick,watermelon,526
+2020-08-01,Merrick,watermelon,519
+2020-08-08,Merrick,watermelon,518
+2020-08-15,Merrick,watermelon,471
+2020-08-22,Merrick,watermelon,496
+2020-06-06,Oceanside,avocado,366
+2020-06-13,Oceanside,avocado,377
+2020-06-20,Oceanside,avocado,391
+2020-06-27,Oceanside,avocado,363
+2020-07-04,Oceanside,avocado,370
+2020-07-11,Oceanside,avocado,349
+2020-07-18,Oceanside,avocado,356
+2020-07-25,Oceanside,avocado,367
+2020-08-01,Oceanside,avocado,365
+2020-08-08,Oceanside,avocado,341
+2020-08-15,Oceanside,avocado,325
+2020-08-22,Oceanside,avocado,346
+2020-06-06,Oceanside,banana,799
+2020-06-13,Oceanside,banana,768
+2020-06-20,Oceanside,banana,860
+2020-06-27,Oceanside,banana,824
+2020-07-04,Oceanside,banana,808
+2020-07-11,Oceanside,banana,802
+2020-07-18,Oceanside,banana,793
+2020-07-25,Oceanside,banana,815
+2020-08-01,Oceanside,banana,800
+2020-08-08,Oceanside,banana,830
+2020-08-15,Oceanside,banana,784
+2020-08-22,Oceanside,banana,850
+2020-06-06,Oceanside,cucumber,382
+2020-06-13,Oceanside,cucumber,407
+2020-06-20,Oceanside,cucumber,398
+2020-06-27,Oceanside,cucumber,394
+2020-07-04,Oceanside,cucumber,387
+2020-07-11,Oceanside,cucumber,380
+2020-07-18,Oceanside,cucumber,356
+2020-07-25,Oceanside,cucumber,366
+2020-08-01,Oceanside,cucumber,368
+2020-08-08,Oceanside,cucumber,385
+2020-08-15,Oceanside,cucumber,391
+2020-08-22,Oceanside,cucumber,389
+2020-06-06,Oceanside,lettuce,592
+2020-06-13,Oceanside,lettuce,603
+2020-06-20,Oceanside,lettuce,603
+2020-06-27,Oceanside,lettuce,601
+2020-07-04,Oceanside,lettuce,625
+2020-07-11,Oceanside,lettuce,661
+2020-07-18,Oceanside,lettuce,638
+2020-07-25,Oceanside,lettuce,674
+2020-08-01,Oceanside,lettuce,632
+2020-08-08,Oceanside,lettuce,605
+2020-08-15,Oceanside,lettuce,588
+2020-08-22,Oceanside,lettuce,573
+2020-06-06,Oceanside,orange,687
+2020-06-13,Oceanside,orange,630
+2020-06-20,Oceanside,orange,644
+2020-06-27,Oceanside,orange,641
+2020-07-04,Oceanside,orange,683
+2020-07-11,Oceanside,orange,677
+2020-07-18,Oceanside,orange,668
+2020-07-25,Oceanside,orange,683
+2020-08-01,Oceanside,orange,669
+2020-08-08,Oceanside,orange,686
+2020-08-15,Oceanside,orange,694
+2020-08-22,Oceanside,orange,726
+2020-06-06,Oceanside,tomato,542
+2020-06-13,Oceanside,tomato,569
+2020-06-20,Oceanside,tomato,566
+2020-06-27,Oceanside,tomato,552
+2020-07-04,Oceanside,tomato,599
+2020-07-11,Oceanside,tomato,568
+2020-07-18,Oceanside,tomato,628
+2020-07-25,Oceanside,tomato,596
+2020-08-01,Oceanside,tomato,588
+2020-08-08,Oceanside,tomato,554
+2020-08-15,Oceanside,tomato,563
+2020-08-22,Oceanside,tomato,541
+2020-06-06,Oceanside,watermelon,776
+2020-06-13,Oceanside,watermelon,801
+2020-06-20,Oceanside,watermelon,840
+2020-06-27,Oceanside,watermelon,826
+2020-07-04,Oceanside,watermelon,854
+2020-07-11,Oceanside,watermelon,812
+2020-07-18,Oceanside,watermelon,813
+2020-07-25,Oceanside,watermelon,806
+2020-08-01,Oceanside,watermelon,885
+2020-08-08,Oceanside,watermelon,834
+2020-08-15,Oceanside,watermelon,861
+2020-08-22,Oceanside,watermelon,787
+2020-06-06,Rye,avocado,157
+2020-06-13,Rye,avocado,161
+2020-06-20,Rye,avocado,166
+2020-06-27,Rye,avocado,167
+2020-07-04,Rye,avocado,170
+2020-07-11,Rye,avocado,166
+2020-07-18,Rye,avocado,165
+2020-07-25,Rye,avocado,166
+2020-08-01,Rye,avocado,157
+2020-08-08,Rye,avocado,150
+2020-08-15,Rye,avocado,157
+2020-08-22,Rye,avocado,154
+2020-06-06,Rye,banana,357
+2020-06-13,Rye,banana,362
+2020-06-20,Rye,banana,377
+2020-06-27,Rye,banana,368
+2020-07-04,Rye,banana,385
+2020-07-11,Rye,banana,367
+2020-07-18,Rye,banana,353
+2020-07-25,Rye,banana,382
+2020-08-01,Rye,banana,357
+2020-08-08,Rye,banana,355
+2020-08-15,Rye,banana,385
+2020-08-22,Rye,banana,381
+2020-06-06,Rye,cucumber,166
+2020-06-13,Rye,cucumber,176
+2020-06-20,Rye,cucumber,177
+2020-06-27,Rye,cucumber,174
+2020-07-04,Rye,cucumber,171
+2020-07-11,Rye,cucumber,163
+2020-07-18,Rye,cucumber,172
+2020-07-25,Rye,cucumber,152
+2020-08-01,Rye,cucumber,166
+2020-08-08,Rye,cucumber,175
+2020-08-15,Rye,cucumber,165
+2020-08-22,Rye,cucumber,176
+2020-06-06,Rye,lettuce,270
+2020-06-13,Rye,lettuce,260
+2020-06-20,Rye,lettuce,278
+2020-06-27,Rye,lettuce,286
+2020-07-04,Rye,lettuce,279
+2020-07-11,Rye,lettuce,284
+2020-07-18,Rye,lettuce,282
+2020-07-25,Rye,lettuce,290
+2020-08-01,Rye,lettuce,284
+2020-08-08,Rye,lettuce,259
+2020-08-15,Rye,lettuce,256
+2020-08-22,Rye,lettuce,265
+2020-06-06,Rye,orange,287
+2020-06-13,Rye,orange,269
+2020-06-20,Rye,orange,273
+2020-06-27,Rye,orange,277
+2020-07-04,Rye,orange,307
+2020-07-11,Rye,orange,304
+2020-07-18,Rye,orange,316
+2020-07-25,Rye,orange,301
+2020-08-01,Rye,orange,290
+2020-08-08,Rye,orange,295
+2020-08-15,Rye,orange,311
+2020-08-22,Rye,orange,286
+2020-06-06,Rye,tomato,253
+2020-06-13,Rye,tomato,255
+2020-06-20,Rye,tomato,259
+2020-06-27,Rye,tomato,257
+2020-07-04,Rye,tomato,270
+2020-07-11,Rye,tomato,272
+2020-07-18,Rye,tomato,266
+2020-07-25,Rye,tomato,254
+2020-08-01,Rye,tomato,259
+2020-08-08,Rye,tomato,247
+2020-08-15,Rye,tomato,271
+2020-08-22,Rye,tomato,262
+2020-06-06,Rye,watermelon,355
+2020-06-13,Rye,watermelon,357
+2020-06-20,Rye,watermelon,359
+2020-06-27,Rye,watermelon,365
+2020-07-04,Rye,watermelon,364
+2020-07-11,Rye,watermelon,362
+2020-07-18,Rye,watermelon,392
+2020-07-25,Rye,watermelon,369
+2020-08-01,Rye,watermelon,372
+2020-08-08,Rye,watermelon,384
+2020-08-15,Rye,watermelon,360
+2020-08-22,Rye,watermelon,364
+2020-06-06,Sleepy Hollow,avocado,287
+2020-06-13,Sleepy Hollow,avocado,272
+2020-06-20,Sleepy Hollow,avocado,285
+2020-06-27,Sleepy Hollow,avocado,286
+2020-07-04,Sleepy Hollow,avocado,287
+2020-07-11,Sleepy Hollow,avocado,289
+2020-07-18,Sleepy Hollow,avocado,283
+2020-07-25,Sleepy Hollow,avocado,274
+2020-08-01,Sleepy Hollow,avocado,296
+2020-08-08,Sleepy Hollow,avocado,274
+2020-08-15,Sleepy Hollow,avocado,252
+2020-08-22,Sleepy Hollow,avocado,266
+2020-06-06,Sleepy Hollow,banana,660
+2020-06-13,Sleepy Hollow,banana,688
+2020-06-20,Sleepy Hollow,banana,628
+2020-06-27,Sleepy Hollow,banana,652
+2020-07-04,Sleepy Hollow,banana,685
+2020-07-11,Sleepy Hollow,banana,642
+2020-07-18,Sleepy Hollow,banana,655
+2020-07-25,Sleepy Hollow,banana,630
+2020-08-01,Sleepy Hollow,banana,646
+2020-08-08,Sleepy Hollow,banana,667
+2020-08-15,Sleepy Hollow,banana,635
+2020-08-22,Sleepy Hollow,banana,643
+2020-06-06,Sleepy Hollow,cucumber,281
+2020-06-13,Sleepy Hollow,cucumber,323
+2020-06-20,Sleepy Hollow,cucumber,313
+2020-06-27,Sleepy Hollow,cucumber,323
+2020-07-04,Sleepy Hollow,cucumber,328
+2020-07-11,Sleepy Hollow,cucumber,295
+2020-07-18,Sleepy Hollow,cucumber,308
+2020-07-25,Sleepy Hollow,cucumber,319
+2020-08-01,Sleepy Hollow,cucumber,300
+2020-08-08,Sleepy Hollow,cucumber,322
+2020-08-15,Sleepy Hollow,cucumber,318
+2020-08-22,Sleepy Hollow,cucumber,305
+2020-06-06,Sleepy Hollow,lettuce,453
+2020-06-13,Sleepy Hollow,lettuce,489
+2020-06-20,Sleepy Hollow,lettuce,499
+2020-06-27,Sleepy Hollow,lettuce,496
+2020-07-04,Sleepy Hollow,lettuce,467
+2020-07-11,Sleepy Hollow,lettuce,499
+2020-07-18,Sleepy Hollow,lettuce,488
+2020-07-25,Sleepy Hollow,lettuce,510
+2020-08-01,Sleepy Hollow,lettuce,493
+2020-08-08,Sleepy Hollow,lettuce,454
+2020-08-15,Sleepy Hollow,lettuce,429
+2020-08-22,Sleepy Hollow,lettuce,442
+2020-06-06,Sleepy Hollow,orange,542
+2020-06-13,Sleepy Hollow,orange,461
+2020-06-20,Sleepy Hollow,orange,501
+2020-06-27,Sleepy Hollow,orange,506
+2020-07-04,Sleepy Hollow,orange,480
+2020-07-11,Sleepy Hollow,orange,527
+2020-07-18,Sleepy Hollow,orange,507
+2020-07-25,Sleepy Hollow,orange,520
+2020-08-01,Sleepy Hollow,orange,529
+2020-08-08,Sleepy Hollow,orange,538
+2020-08-15,Sleepy Hollow,orange,544
+2020-08-22,Sleepy Hollow,orange,532
+2020-06-06,Sleepy Hollow,tomato,434
+2020-06-13,Sleepy Hollow,tomato,449
+2020-06-20,Sleepy Hollow,tomato,446
+2020-06-27,Sleepy Hollow,tomato,447
+2020-07-04,Sleepy Hollow,tomato,459
+2020-07-11,Sleepy Hollow,tomato,481
+2020-07-18,Sleepy Hollow,tomato,476
+2020-07-25,Sleepy Hollow,tomato,470
+2020-08-01,Sleepy Hollow,tomato,457
+2020-08-08,Sleepy Hollow,tomato,464
+2020-08-15,Sleepy Hollow,tomato,424
+2020-08-22,Sleepy Hollow,tomato,415
+2020-06-06,Sleepy Hollow,watermelon,578
+2020-06-13,Sleepy Hollow,watermelon,622
+2020-06-20,Sleepy Hollow,watermelon,650
+2020-06-27,Sleepy Hollow,watermelon,652
+2020-07-04,Sleepy Hollow,watermelon,638
+2020-07-11,Sleepy Hollow,watermelon,671
+2020-07-18,Sleepy Hollow,watermelon,625
+2020-07-25,Sleepy Hollow,watermelon,634
+2020-08-01,Sleepy Hollow,watermelon,612
+2020-08-08,Sleepy Hollow,watermelon,610
+2020-08-15,Sleepy Hollow,watermelon,674
+2020-08-22,Sleepy Hollow,watermelon,648
+2020-06-06,Stony Brook,avocado,236
+2020-06-13,Stony Brook,avocado,233
+2020-06-20,Stony Brook,avocado,243
+2020-06-27,Stony Brook,avocado,238
+2020-07-04,Stony Brook,avocado,224
+2020-07-11,Stony Brook,avocado,226
+2020-07-18,Stony Brook,avocado,235
+2020-07-25,Stony Brook,avocado,235
+2020-08-01,Stony Brook,avocado,233
+2020-08-08,Stony Brook,avocado,218
+2020-08-15,Stony Brook,avocado,218
+2020-08-22,Stony Brook,avocado,217
+2020-06-06,Stony Brook,banana,554
+2020-06-13,Stony Brook,banana,547
+2020-06-20,Stony Brook,banana,544
+2020-06-27,Stony Brook,banana,564
+2020-07-04,Stony Brook,banana,545
+2020-07-11,Stony Brook,banana,525
+2020-07-18,Stony Brook,banana,520
+2020-07-25,Stony Brook,banana,510
+2020-08-01,Stony Brook,banana,527
+2020-08-08,Stony Brook,banana,541
+2020-08-15,Stony Brook,banana,562
+2020-08-22,Stony Brook,banana,531
+2020-06-06,Stony Brook,cucumber,262
+2020-06-13,Stony Brook,cucumber,264
+2020-06-20,Stony Brook,cucumber,261
+2020-06-27,Stony Brook,cucumber,263
+2020-07-04,Stony Brook,cucumber,255
+2020-07-11,Stony Brook,cucumber,246
+2020-07-18,Stony Brook,cucumber,241
+2020-07-25,Stony Brook,cucumber,245
+2020-08-01,Stony Brook,cucumber,236
+2020-08-08,Stony Brook,cucumber,268
+2020-08-15,Stony Brook,cucumber,262
+2020-08-22,Stony Brook,cucumber,252
+2020-06-06,Stony Brook,lettuce,393
+2020-06-13,Stony Brook,lettuce,413
+2020-06-20,Stony Brook,lettuce,409
+2020-06-27,Stony Brook,lettuce,402
+2020-07-04,Stony Brook,lettuce,427
+2020-07-11,Stony Brook,lettuce,397
+2020-07-18,Stony Brook,lettuce,425
+2020-07-25,Stony Brook,lettuce,412
+2020-08-01,Stony Brook,lettuce,416
+2020-08-08,Stony Brook,lettuce,374
+2020-08-15,Stony Brook,lettuce,406
+2020-08-22,Stony Brook,lettuce,382
+2020-06-06,Stony Brook,orange,434
+2020-06-13,Stony Brook,orange,394
+2020-06-20,Stony Brook,orange,434
+2020-06-27,Stony Brook,orange,396
+2020-07-04,Stony Brook,orange,435
+2020-07-11,Stony Brook,orange,440
+2020-07-18,Stony Brook,orange,450
+2020-07-25,Stony Brook,orange,428
+2020-08-01,Stony Brook,orange,441
+2020-08-08,Stony Brook,orange,448
+2020-08-15,Stony Brook,orange,441
+2020-08-22,Stony Brook,orange,426
+2020-06-06,Stony Brook,tomato,373
+2020-06-13,Stony Brook,tomato,391
+2020-06-20,Stony Brook,tomato,373
+2020-06-27,Stony Brook,tomato,370
+2020-07-04,Stony Brook,tomato,385
+2020-07-11,Stony Brook,tomato,407
+2020-07-18,Stony Brook,tomato,387
+2020-07-25,Stony Brook,tomato,405
+2020-08-01,Stony Brook,tomato,398
+2020-08-08,Stony Brook,tomato,378
+2020-08-15,Stony Brook,tomato,375
+2020-08-22,Stony Brook,tomato,381
+2020-06-06,Stony Brook,watermelon,521
+2020-06-13,Stony Brook,watermelon,526
+2020-06-20,Stony Brook,watermelon,509
+2020-06-27,Stony Brook,watermelon,530
+2020-07-04,Stony Brook,watermelon,528
+2020-07-11,Stony Brook,watermelon,524
+2020-07-18,Stony Brook,watermelon,573
+2020-07-25,Stony Brook,watermelon,544
+2020-08-01,Stony Brook,watermelon,572
+2020-08-08,Stony Brook,watermelon,556
+2020-08-15,Stony Brook,watermelon,537
+2020-08-22,Stony Brook,watermelon,543
