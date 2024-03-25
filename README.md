@@ -30,6 +30,7 @@ ___
 algorithms: Logistic Regression, K-nearest neighbors, Random Forest, Gradient Boost, and LBGM.
 - Collaborated with a five-person tea
 
+[Project](portfolio/Netrality/Project_Report.pdf)
 
 ### Statistical Consulting Project
 **Hiatus App - Adelphi University**
