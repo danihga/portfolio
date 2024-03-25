@@ -34,7 +34,7 @@ Academic Distinction (2019, 2020, 2021, 2022, 2023), NE10 Academic Honor Roll - 
 ___
 
 ### Prospect Customers Billing Forecasting
-**Netrality Data Centers – Adelphi University** | New York, USA | August 2023– May 2024
+**Netrality Data Centers – Adelphi University** | August 2023– May 2024
 
 - Forecasted companies for revenue maximization using machine learning techniques.
 - Developed, trained, and evaluated a machine learning model using a dataset of current companies, leveraging five classification
@@ -45,7 +45,7 @@ algorithms: Logistic Regression, K-nearest neighbors, Random Forest, Gradient Bo
 [Project Paper](https://github.com/danihga/portfolio/blob/8c23a04c234420d0d733ea192c3c15f4300fde8e/Netrality/Project_Report.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/tree/c1310e13be3891c02828cc1d63d6d37713832055/Netrality)
 
 ### Statistical Consultor
-**Hiatus App - Adelphi University** | New York, USA | August 2023 – December 2023
+**Hiatus App - Adelphi University** | August 2023 – December 2023
 - Developed a Marketing Mix Model (MMM) using data analytics techniques to optimize budget allocation for media channels.
 - Implemented Lasso and Ridge Regression algorithms to build a predictive model and deliver actionable insights for strategic
 decision-making.
@@ -55,12 +55,15 @@ decision-making.
 [Guide](https://github.com/danihga/portfolio/blob/6b85c563e37395a9d2ea09f332743f00cb1e777e/Hiatus/Guidebook.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/tree/78206beb82fbbe267a3d2e92265c282f858cb3f4/Hiatus)
 
 ### Research - Fellowship (_Department of Mathematics and Computer Science_)
-**Adelphi University**
+**Adelphi University** | August 2020 – May 2021
 - Research and developed winning strategy algorithms in Graph and Game Theory in a 3-person team.
 - Presented team results at the Mathematical Association of America Metro New York conference (May 1st, 2021)
 and Adelphi’s Annual Conference (May 10th, 2021).
 
 ## Projects
 ___
+
+*Stochastic Processes: Ito Integration*
+**Stock Prices Modelling and Black and Sholes**
 
 
