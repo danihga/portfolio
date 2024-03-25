@@ -63,7 +63,13 @@ and Adelphi’s Annual Conference (May 10th, 2021).
 ## Projects
 ___
 
-*Stochastic Processes: Ito Integration*
+### Stochastic Processes and Financial Applications
 **Stock Prices Modelling and Black and Sholes**
 
+- Conducted in-depth research on Stochastic Processes, focusing on understanding concepts like Ito integration and its applications in finance, particularly in stock pricing and options.
+- Developed a solid foundation in Stochastic Processes, essential for comprehending complex financial models.
+- Explored concepts such as Random Walk, Markov Chain, Brownian motion, and Ito Integration, utilizing them to model stock prices and derive The Black and Scholes Equation.
+-Implemented computer-programmed simulations to validate theoretical findings and enhance understanding.
+- Derived The Black and Scholes Equation, showcasing proficiency in advanced mathematical modeling and its relevance in financial analysis.
 
+[Project Paper](https://github.com/danihga/portfolio/blob/8c23a04c234420d0d733ea192c3c15f4300fde8e/Netrality/Project_Report.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/tree/c1310e13be3891c02828cc1d63d6d37713832055/Netrality)
