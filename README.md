@@ -85,4 +85,4 @@ ___
 - Implemented the MCMC algorithm to analyze the probability of obtaining specific district maps, contributing to the detection and prevention of unfair electoral practices.
 - Addressed the ethical and political implications of partisan gerrymandering, emphasizing the importance of fair representation and democratic integrity in electoral processes.
 
-[Project Final Paper](https://github.com/danihga/portfolio/blob/ff78935a7b6f92ce08a7be4567e64779c5e82100/Black-Sholes%20Research%20Undergraduate%20Thesis/Black_Sholes_Paper.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/tree/7e7d2639a4ad13b6a57eab274ff090763203eeac/Black-Sholes%20Research%20Undergraduate%20Thesis)
+[Project Final Paper](https://github.com/danihga/portfolio/blob/d8ee2ac5d09d897c0b962133e7fefa0500717727/Redistricting%20Project/Final_Project_Report.pdf)        |       [Project Files and Code](https://github.com/danihga/portfolio/blob/d8ee2ac5d09d897c0b962133e7fefa0500717727/Redistricting%20Project)
