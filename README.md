@@ -40,6 +40,7 @@ algorithms: Logistic Regression, K-nearest neighbors, Random Forest, Gradient Bo
 decision-making.
 - Utilized Python programming for data preprocessing, model deployment, creating a scalable and efficient solution.
 - Collaborated with the team to ensure alignment with business goals, meet deadlines, and deliver presentations to stakeholders.
+
 [Guide Book]() [Code]()
 
 ### Research - Fellowship (_Department of Mathematics and Computer Science_)
