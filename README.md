@@ -33,6 +33,19 @@ Academic Distinction (2019, 2020, 2021, 2022, 2023), NE10 Academic Honor Roll - 
 ## Experience 
 ___
 
+### Consulting Analyst 
+**Confidential Financial Institution** | Jan 2024 - May 2024
+-	Collaborated with a consultant team to develop approaches for categorizing customer transactions within a financial institution.
+-	Employed transaction categorization-based cadence and evaluated dollar transactions' frequency, consistency, and predictability.
+-	Analyzed and extracted historical transaction big data to enhance customer financial behavior prediction accuracy.
+  
+### Mathematical Consultant 
+**Catholic Health** | Jan 2024 - May 2024
+•	Developed and implemented techniques to design surveys and assess responses for identifying food insecurity among customers.
+•	Aggregated different classification algorithms including XGBoost, logistic regression, and decision trees, to analyze survey data.
+•	Applied hyperparameter tuning to address complexities of highly unbalanced classes in datasets and drive optimal outcomes.
+•	Employed Jaccard score to measure similarities between affirmative response data across different survey questions.
+
 ### Prospect Customers Billing Forecasting
 **Netrality Data Centers – Adelphi University** | August 2023– May 2024
 
